@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pifpa\\OneDrive\\Документы\\deathcode\\TASK1\\task1.csproj": {}
+    "C:\\Users\\pifpa\\OneDrive\\Документы\\deathcode\\task1\\task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pifpa\\OneDrive\\Документы\\deathcode\\TASK1\\task1.csproj": {
+    "C:\\Users\\pifpa\\OneDrive\\Документы\\deathcode\\task1\\task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pifpa\\OneDrive\\Документы\\deathcode\\TASK1\\task1.csproj",
+        "projectUniqueName": "C:\\Users\\pifpa\\OneDrive\\Документы\\deathcode\\task1\\task1.csproj",
         "projectName": "task1",
-        "projectPath": "C:\\Users\\pifpa\\OneDrive\\Документы\\deathcode\\TASK1\\task1.csproj",
+        "projectPath": "C:\\Users\\pifpa\\OneDrive\\Документы\\deathcode\\task1\\task1.csproj",
         "packagesPath": "C:\\Users\\pifpa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pifpa\\OneDrive\\Документы\\deathcode\\TASK1\\obj\\",
+        "outputPath": "C:\\Users\\pifpa\\OneDrive\\Документы\\deathcode\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pifpa\\AppData\\Roaming\\NuGet\\NuGet.Config"
